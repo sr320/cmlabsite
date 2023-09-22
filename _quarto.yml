@@ -4,8 +4,91 @@ project:
 
 website:
   title: "Chris' Lab Notebook"
+  favicon: images/favicon.png
+  description: Open lab notebook for documenting project progress and pitfall
+  site-url: https://chrismantegna.github.io/cmlabsite/
+  repo-url: https://chrismantegna.github.io/cmlabsite
+  
   navbar:
-    right:
+    background: primary
+    # transparent might be a cool option
+    forgreound: light
+    search: true
+    #right:
+    # learn the difference between tools and the navbar that can be linked by qmd instead of a url. The top line with icons needs real urls to go to something. The format below with the qmd's is actually what I want. 
+       tools:
+      - icon: dna
+        menu:
+          - text: Projects
+            url:  http://
+          - text: Blog Posts
+            url:  http://
+          - text: Daily Posts
+            url:  https://
+    
+      - icon: journal-code
+        menu:
+          - text: Mentoring & Outreach
+            url:  https://
+          - text: Reading List
+          # dei centered/ geography centered - mostly non-science
+            url:  https://
+      - icon: github
+        menu:
+          - text: Home Repo
+            url:  https://
+          - text: Email Address
+            url:  https://
+          - text: Twitter
+            url: https://
+      - icon: atom
+        text: "About Me"
+        href: https://
+    
+
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: Research
+        contents:
+          - text: "Projects"
+            file: research.qmd
+          - text: "Publications"
+            file: publications.qmd
+      - section: People
+        contents:
+          - people.qmd
+          - collaborators.qmd
+      - section: "Lab Culture"
+        contents:
+          - dei.qmd
+          - outreach.qmd
+          - posts.qmd
+          - culture.qmd
+          - contact.qmd
+       
+
+
+    
+format:
+  html:
+    theme:
+      light: journal
+      dark: superhero
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
+      - text: "Projects"
+        file: projects.qmd
+        
+      - text: "About"
       - about.qmd
       - icon: github
         href: https://github.com/
