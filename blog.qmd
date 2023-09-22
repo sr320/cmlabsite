@@ -1,0 +1,15 @@
+---
+title: "Blog Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [image, date, title, author, categories, reading-time]
+page-layout: full
+title-block-banner: true
+---
+
+I do cool things and I will talk about them here. This page will have monthly goal blogs, one project spotlight, and something DEI related monthly.
