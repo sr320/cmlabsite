@@ -1,0 +1,79 @@
+---
+title: "July 2023 Daily Notebook Post Log"
+author: "Chris Mantegna"
+date: "2023-07"
+categories: ["monthly goals", "daily log"]
+format:
+  html:
+    toc: true
+---
+
+# Daily Log
+
+## 31 July 2023
+- final YI field day & reu presentation support for 5 cohort members plus my own
+
+## 30 July 2023
+- AM off and PM presentation run through with REU group and followup meeting / 1v1 with studets
+
+## 29 July 2023
+- working with the REUs to finalize presentations and work through their papers
+
+## 28 July 2023
+-  wellness modules and project work
+
+## 27 July 2023
+- Data visualization and results/ discussion preparation for with the students. Guest Scientist, Carina Fish
+
+## 26 July 2023
+- Data entry finalization and feedback session for data collection and entry
+
+## 25 July 2023
+-  Data entry review
+
+## 22-24 July 2023
+- Off for a wedding in Boston
+
+## 21 July 2023
+- Returned Camille to Seattle and spent the day getting HFS work done.
+
+## 20 July 2023
+- Guest Scientist, Natalie B. Independent work & a Bioinformatics tutorial that was an introduction to R and some Tidyverse functionality
+- Finalized having Malik Johnson come up and cover the cohort while I am away for the next few days.
+
+## 19 July 2023
+-  DNA extractions
+
+## 18 July 2023
+- eDNA collection. Bottle prep was done yesterday so today we verified we've packed our equipment properly, grabbed ice and our bottles and left for Yellow. We split into two teams and sampled pre-determined opposite sites on the island. At the completion of collection we packed out sample bottles on ice and returned to the lab. Four filtration pump set-ups were run to filter all 20 bottles. It took approximately 4 hours. 
+
+## 17 July 2023
+- Field day cancelled due to small craft advisory due to wind. Will collect samples tomorrow, but today we did an introduction of Camille and BIMS, overview of eDNA, the agenda for the week including a lab and protocol walkthrough
+
+## 16 July 2023
+- Grabbed Camile from Seattle and brought her up to FHL to meet the cohort.
+
+## 13 July 2023
+- Guest scientist Lys Isma
+
+## 00 July 2023
+## 07 July 2023
+- Return to FHL campus and get DDCSP scholars off island to their cohort camping trip. REU students have off to compensate for the 7 day stretch of work.
+
+## 06 July 2023
+- data collection day
+
+## 05 July 2023
+- data collection day
+
+## 04 July 2023
+- data collection day
+
+## 03 July 2023
+- data collection day
+
+## 02 July 2023
+- data collection day
+
+## 01 July 2023
+- data collection day
