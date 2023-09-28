@@ -5,5 +5,26 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/mentorship.html",
+    "items": [
+      "/notebook/2023septembergoals.html",
+      "/notebook/2023september.html"
+    ]
+  },
+  {
+    "listing": "/notebook.html",
+    "items": [
+      "/notebook/2023septembergoals.html",
+      "/notebook/2023september.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/post-with-code/index.html"
+    ]
   }
 ]
