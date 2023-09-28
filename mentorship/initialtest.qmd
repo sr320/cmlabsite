@@ -1,0 +1,9 @@
+---
+title: "September 2023 Mentorship post"
+author: "Chris Mantegna"
+date: "2023-09-28"
+categories: ["monthly goals", "daily log"]
+format:
+  html:
+    toc: true
+---
