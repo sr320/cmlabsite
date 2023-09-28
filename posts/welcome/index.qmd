@@ -7,6 +7,6 @@ categories: [blog]
 
 I'm trying to understand the paths for file structure and setup
 
-![](bloodstar.png)
+![](/images/bloodStar.png)
 
 Doing what I can
