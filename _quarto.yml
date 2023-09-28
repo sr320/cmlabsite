@@ -25,4 +25,5 @@ format:
     theme: pulse
     css: styles.css
 
+editor: visual
 
