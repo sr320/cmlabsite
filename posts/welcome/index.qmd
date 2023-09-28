@@ -1,7 +1,7 @@
 ---
 title: "Where does this land?"
 author: "Chris"
-date: "Libra Season"
+date: "september 27th"
 categories: [blog]
 ---
 
