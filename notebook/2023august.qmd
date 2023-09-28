@@ -1,0 +1,108 @@
+---
+title: "August 2023 Daily Notebook Post Log"
+author: "Chris Mantegna"
+date: "2023-08"
+categories: ["monthly goals", "daily log"]
+format:
+  html:
+    toc: true
+---
+
+# Daily Log
+
+## 31 August 2023
+- Met with Coira, REU student, about her final draft of her REU paper and we have finalized and submitted it to the program. I followed that with a DDCSP feedback meeting for the mentors. Meera and I had a lovely conversation about the program and how the next year will shape up. Ended with lab meeting where we went over progress, plans for the remainder of the summer break and how to prep for new lab members.
+
+## 30 August 2023
+- First real Innovation Grant meeting. We had a few action items and overall the meeting was collaborative and went well.  
+
+## 29 August 2023
+- Off in Big Sur. Finished and submitted my SICB abstract. Started the Innovation Grant meeting agenda.
+
+## 28 August 2023
+- Off in Big Sur. Working on my SICB abstract to get over to Steven and Camille for a quick edit pass before I submit it through the portal tomorrow.
+
+## 27 August 2023
+- Sunday. Off in Big Sur
+
+## 26 August 2023
+- Saturday. Off in Monterey and Big Sur. I visited the aquarium and Michael Howard. He's a curator of jellies and collects at FHL annually. It was really cool to see how the exhibit was set up and how they rear jellies and ctenophores. The aquarium was so cool, especially the Into the Deep exhibit. I pet a giant isopod - very cool.
+
+## 25 August 2023
+- We did about 800k reads for the ONT run on Thursday, so we flushed the flow cell and ran the other half of our sample. We had about 40% of the cells left after the first run so we are hoping to make it to 1.5 M reads. We got that rolling and went over to CALeDNA to go through some community ecology code and troubleshoot our QC errors in the Tronko pipeline. Due to the problems with Tronko we had our code run throough Anacapa as a first pass. We said our goodbyes and will get together over Zoom to do work across our data when all of the QC stuff is completed through Tronko. We will also have to follow up with Dori and the initial processing of the ONT data since that is in queue to be qc'd after a few other running projects and that will take about a week or so.
+
+## 24 August 2023
+ Started the day in the Vollmers Lab where Dori walked us through the clean-up of the 529, the exonuclease clean-up and the completion of the library prep and flow cell preparation and load. We started sequencing on the minION this afternoon after a primer on how to prime and load the flow cell. We will return in the morning when Dori has data to look at to determine if the sequencing output is worthwhile. Worth note, she truncated the sample prep due to our time constraints in ways that she determined most useful. Since she is a field expert, we followed her lead. Also worth note, flow cell preparation is time consuming and key to successful sequencing. We decided to load 150 ng of DNA (~4uL of sample) which is about half of what remains after the cleaning and general size selection. When we opend MinKNOW and checked the flow cell 1257 pores were ready to sequence. From check to sequencing it took about 30 minutes to get a run going. She first started by removing the air from the flow cell by gently placing a p1000 pipette tip and light pressure to remove air. It is important to note that you do not 'pull' anything. A small amount of the fluid in the cell to keep it wet will enter the pipette tip. You will also know that flow cell is ready when you see the 'holding' fluid moves. Next you flush with 200uL of the primer and primer tether. This is slow and you must ensure not to introduce air. You also cannot 'pull' anything back into the flow cell - nothing flows in reverse. There is a waste cell that will catch and release things. After about 10 - 15 minutes  you prime again with 800 uL of the priming solution and then prepare your file structure and set up for a run. Your sample gets mixed with Nanopore beads and that requires a few (only a few) pipette mixings before being loaded drop by drop into the flow cell. If your sample doesn't load, add a bit more primer solution to clear the channel and try again. At this point the flow cell will get to temperature, preform another check and then run. The MinKNOW interface gives you some diagnostic information on the run during the process. It is worth note that this lab doesn't do live basecalling because it is a resource suck and not helpful. They have established scripts that do the basecalling from their in lab setup. Dori will run the sequencer overnight and let us know in the morning if it is good. 
+ - Camille and I ended the day giving a BIMS/ Yellow Island Project seminar.
+
+## 23 August 2023
+- Vollmers Lab day with sample prep for ONT minION sequencing. Working with Dorie we are preparing our existing Illumina library for sequencing on the minION using a technique developed in this lab. They circularize the dna with splits so that the capacity of the minION can be used to our advantage. the minION is useful for really long reads, but our primers and sequences are short so the splints help us make it a loop that keeps getting sequenced.
+
+## 22 August 2023
+- Meeting with Steven to go over updates from our last meeting. We discussed progress on the process here at UCSC, committee members, preparing for my first committee meeting, and Innovation Grant meeting. 
+- I went over to the UCSC campus to work on running a QC gel to identify the potential sources of contamination that are present in everything sequenced from the CALeDNA lab on Friday. We found that genomic DNA contaminated all of the samples after the pooling & indexing phase. Their lab biochemist worked on that while we toured the biomed/ paleogenomics labs on the UCSC main campus. 
+- We ended with a graduate student in the Vollmers Lab, Dori Deng, who works on improving ONT process and protocol for sequencing with their tools. She sent us papers and protocols that they use to sequence on the minION and we will go back tomorrow to begin the library prep for minION sequencing on Thursday and Friday.
+
+## 21 August 2023
+- Today we learn eDNA explorer and begin to work through the protocols for using the Nanopore MinION. It is important to note that we are using the eDNA processing protocol from the CALeDNA website: https://ucedna.com/methods-for-researchers/. We previewed the eDNA website and functionality, went over a quick review of what we were expecting and what we received. Camille and I cleaned up the metadata and some of the files in the folder so we could get data and metadata over to Levi - a member of the CALeDNA lab - to get everything uploaded to eDNA Explorer.
+
+## 20 August 2023
+- Sunday. Beach Day
+
+## 19 August 2023
+- Saturday. Day Off to roam around Santa Cruz.
+
+## 18 August 2023
+- We made it with plenty of time to spare. We went in, bead cleaned, spec'd, and had to normalize 4 values that kept showing above the maximum. Next step was to take the concentrations from the specing, do some calculations using the CALeDNA template to determine the amount of each sample to add to the final pool. The goal was 100uL total with a concentration of 100nm, but our values were so variable that we did some manipulations so we could make volume limits. So, the end result is to combine all of our samples in one tube with no more than 100nm/100uL of sample and split it into 2 tubes with 50uL each - one to send and one for back up. Since our concentrations were so variable, we chose to drop 6 samples that were below .5 since we have replicates and combine at a higher volume and concentrate. We combined at 323uL withour water (which is an add is all the stars align and a snow lepard speaks to you) and concentrated the sample using a multifuge where we manipulated time and heat to concentrate the sample down to 100uL total. Once finished we split the sample in half  - one to the sequencer and one as a backup where the team will extract about 5uL for specing again. We completed the sequencing form and the eDNA explorer metadata form for later seamless transition from completed sequencing to file and bioinformatic process management.
+
+## 17 August 2023
+- Started the morning by balancing the PCR plates to combat some samples that may have evaporated, pooling the 18S plates and then bead cleaning. After bead cleaning we spec'd our results and moved into the second to last pooling. We pooled based on calculations that took our concentrations reported from the Spectometer and made a pool of both markers at equal molarity to move into making our indices. Once we tediously pipetted ridiculous amounts of each plate (COI and 18S) into a new, we began to prepare for indexing. This included a standardized amount of DNA from our pooliing plate, a PCR master mix, our indices (Corbett Primers 4+8), and water. We completed calculations (total 25uL in each well), prepped the plate and sent it through it's last PCR. At the conclusion we took it out, checked for evaporation and put it in the fridge. Tommorow we will do a final bead clean, spec and pool before sending over to the Illumina NextSeq by 2pm.
+
+## 16 August 2023
+-  Labwork and more labwork. Started by PCRing the missing column fron our first 18S plate, went up to bead clean and spec the COI plate and that was successful. The 18S plate not so much. We pooled samples, began the bead cleaning and then got lost in the process and threw away the DNA. So, we remade an aliquot plate for the samples, remade 3 plates for PCR and ended the day with all three in the thermocycler. 
+
+## 15 August 2023
+- We started the day looking at the 2 plates from yesterday after their thermocycler run. Both were run using the touchdown protocol and temperature setting for their respective primer. The 18S used the thermocycler that they said was the best and there was no evaporation off of the plate. The COI plate did experience some evaporation and those wells were topped off with DNAFree Water so they were essentially 'even'. We moved into making a gel and loading 10 samples from each plate including a blank. We imaged it and were happy with the result so we moved forward with completing the PCRs for the remaining two plates per primer set. We attended the Meyer Lab meeting where we shared a bit about ourselves and our project and everyone set intentions/ goals for the week.
+
+## 14 August 2023
+- First day in the Meyer's Lab. We did introductions, lab safety & tour, and mapped out a tentative plan for the next week. We since each extracted sample has varying amounts we added 20uL of DNAFree water to each and then aliquoted 16uL onto a plate. We prepped 2 PCR plates, one for 18S and another for COI, using 2uL of sample and 13uL of mix. We had enough time at the end of the day to put them both in the thermocycler and will run the gels tomorrow.
+
+## 13 August 2023
+- Sunday. Travel to UCSC
+
+## 12 August 2023
+-  Saturday. UW Photo Day with Chloe
+
+## 11 August 2023
+- Last day at HFS, lots of close out duties. Gardell lab meeting. During the lab meeting we updated on our project progress and set our goals/ intentions for the remainder of the summer break. Mine were to make progress on the p450 work and to process the eDNA samples.
+
+## 10 August 2023
+- DDCSP Summit Day! We wrapped summit with an bespoke poem from Carolyn Finney and a group dinner. Amazing day.  
+
+## 09 August 2023
+-  I met with a prospective PhD applicant, Leah Ferger, about possibly joining the lab in 2024. For the remainder of the day I closed out Yellow Island project budgets and invoices and grabbed the FedEx supplies for shipping my samples down to UCSC.
+
+## 08 August 2023
+-  Had a meeting with Steven to get back on track with my work and degree progress. We agreed I'll submit to present at SICB, the abstract is due 8/29/23, we went over committee and project updates. The ultimate goal is to get my current projects over the home stretch, get my committee formed, and clarify my work's direction. After that, I spent some time in the lab on an emotional rollercoaster induced by the Nanodrop to take a quick look at the DNA quantities in my extractions. The quantity was varied but there is a discrepancy between  the amount and the peaks at salt absorption...
+
+## 07 August 2023
+- This is the start of my final week at HFS. Today was a full day of turnover tasks in preparation for my departure.
+
+## 06 August 2023
+- Seafair Sunday!
+
+## 05 August 2023
+- Seafair Saturday!
+
+## 04 August 2023
+- Finished DNA extractions for the Yellow Island eDNA project. All samples but one came out, so now we have 59 samples total for processing at UCSC.
+
+## 03 August 2023
+- Final check-outs and working with Logan and Coira to finalize their papers for submission by 8/4/23. Return to Seattle on the late ferry.
+
+## 02 August 2023
+- Completed all of the program exit interviews wiht the REUs and DDCSPs. Took them to dinner and ended the day with a gratitude circle.
+- Cleaned up all spaces and returned all equipment.
+
+## 01 August 2023
+- REU presentations! My folks did an excellent job presenting their work - the entire cohort did an excellent job.
