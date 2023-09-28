@@ -4,44 +4,25 @@ project:
 
 website:
   title: "Chris' Lab Notebook"
-  favicon: images/favicon.png
-  description: Open lab notebook for documenting project progress and pitfall
-  site-url: https://chrismantegna.github.io/cmlabsite/
-  repo-url: https://chrismantegna.github.io/cmlabsite
-  
   navbar:
-    background: primary
-    # transparent might be a cool option
-    forgreound: light
-    search: true
-   
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: Research
-        contents:
-          - text: "Projects"
-            file: projects.qmd
-          - text: "About"
-            file: about.qmd
-          - text: "Notebook"
-            file: notebook.qmd
-      - section: Mentorship & Outreach
-        contents:
-          - text: "Mentorship"
-            file: mentorship.qmd
-          - text: "Blog"
-            file: blog.qmd
-         
-
+    right:
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Progress Blog
+      - href: projects.qmd
+        text: Projects
+      - href: mentorship.qmd
+        text: Mentorship & Outreach
+      - href: notebook.qmd
+        text: Daily Notebook Posts
+      - icon: github
+        href: https://github.com/ChrisMantegna
+      - icon: twitter
+        href: https://twitter.com/SaffireSeahorse
 format:
   html:
-    theme:
-      light: journal
-      dark: superhero
+    theme: pulse
     css: styles.css
-    toc: true
 
-editor: visual
 

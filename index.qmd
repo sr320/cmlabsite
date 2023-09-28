@@ -1,12 +1,22 @@
 ---
-title: "Chris' Lab Notebook"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Chris Mantegna, SAFS Graduate Student"
+image: MantegnaChrisPhoto.JPG
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/SaffireSeahorse
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cmantegna
+    - icon: github
+      text: Github
+      href: https://github.com/ChrisMantegna
+
 ---
+
+# Welcome!
+
+Witty thing that helps spark interest & Beyonce pic.
