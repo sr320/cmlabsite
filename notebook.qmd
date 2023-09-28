@@ -11,6 +11,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+<<<<<<< HEAD
 
 # Daily Entry - September 27, 2023
 
@@ -46,3 +47,5 @@ title-block-banner: true
 
 -   The first day of classes and my first day as a TA Attended the CoE
     Queer Affinity Group Social.
+=======
+>>>>>>> f96e25597375a4ee3a65b1b7a1a33c1fac8e95bd
