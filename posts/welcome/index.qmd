@@ -1,12 +1,12 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-09-18"
-categories: [news]
+title: "Where does this land?"
+author: "Chris"
+date: "Libra Season"
+categories: [blog]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+I'm trying to understand the paths for file structure and setup
 
-![](thumbnail.jpg)
+![](bloodstar.png)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Doing what I can
