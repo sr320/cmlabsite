@@ -10,8 +10,16 @@ format:
 
 # Daily Log
 
+## 30 September 2023
+- Saturday. 
+
+## 29 September 2023
+
 ## 28 September 2023
--
+- Kicked off lab meetings for the quarter with lab notebook convo and cinnamon rolls. 
+- Met with Camille to chat through code/ data analysis for the YI eDNA project.
+- Attended the GPC x GPA lunch meeting.
+- Did some reading about biomarkers in the Principles of Ecotoxicology before attending my weekly Black Grad Student Group.
 
 ## 27 September 2023
 - The first day of classes and my first day as a TA Attended the CoE Queer Affinity Group Social.
