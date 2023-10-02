@@ -1,0 +1,16 @@
+---
+title: "October 2023 Goals"
+author: "Chris Mantegna"
+date: "2023-10-01"
+categories: ["monthly goals", "daily entries"]
+format:
+  html:
+    toc: true
+---
+
+## Monthly Goals  
+
+- Finish all BCA aasays and p450 assays
+- Prepare for first committee meeting 
+- Get through eDNA bioinformatics pipeline with the code and files from CALeDNA
+
