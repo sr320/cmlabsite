@@ -74,10 +74,16 @@ format:
 - 
 ## 03 October 2023
 
+<<<<<<< HEAD
 - Meeting with Steven to review GSAR/ annual progress report
 - Innovation Grant Meeting, whole team, to finalize details on training, schedule, and logistics.
 - Attended the SAFS Chat with Sam and Chelsea and heard a bit about their plan for the grad student experience
 - TA'd my first two quiz sections
+=======
+- TA'd my first two quiz sections and graded their section assigments.
+- Had my GSAR meeting with Steven & Innovation Grant monthly meeting.
+- Cleaned up some of the morphometrics data on the dissected mussels. 
+>>>>>>> 00d7595cb3c05d494445fab5bdb56fdae95e424b
 
 ## 02 October 2023
 
