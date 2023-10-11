@@ -9,15 +9,14 @@
   {
     "listing": "/mentorship.html",
     "items": [
-      "/notebook/2023septembergoals.html",
-      "/notebook/2023september.html",
-      "/notebook/2023august.html",
-      "/notebook/2023july.html"
+      "/mentorship/initialtest.html"
     ]
   },
   {
     "listing": "/notebook.html",
     "items": [
+      "/notebook/2023october.html",
+      "/notebook/2023octobergoals.html",
       "/notebook/2023septembergoals.html",
       "/notebook/2023september.html",
       "/notebook/2023august.html",
