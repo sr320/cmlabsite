@@ -21,16 +21,64 @@ format:
 ## 24 October 2023
 ## 23 October 2023
 ## 22 October 2023
+
+- Sunday. 
+
 ## 21 October 2023
+
+- Saturday. 
+
 ## 20 October 2023
+
+- Attended my weekly FAB scheduling retrospective.
+- Attended ENV 100 lecture and CENV 555.
+- Was a panelist for the GEODUC group. Topic was "What did you wish you knew before becoming a student/ student- TA".
+- Prepped for lab work at UWT tomorrow.
+
+
 ## 19 October 2023
+
+- Attended lab meeting and my BGG meeting.
+- First committee meeting, will require a follow-up email to make clear the next steps and involvement.
+- Wrapped up grading for my quiz sections for the week.
+
 ## 18 October 2023
+
+- Held quiz section, office hours, and attended ENV 100 lecture. Worked through grading for the outstanding assignments from the last week.
+- Put together the timeline for mussel sample work with Alison and Ly so we were all on the same page.
+- Finished the day with my writing accountability group and some work on my committee meeting presentation to incorporate Steven's suggestions. 
+
 ## 17 October 2023
+
+- TA'd from 0830 to 1430. I covered for a fellow TA in addition to my sections.
+- Attended BIMS ICB writing workshop to learn how to edit and accept editing suggestions.
+- Committee meeting run-through with Steven to streamline the presentation.
+- KRAKEN home opener! #DefendTheDeep
+
 ## 16 October 2023
+
+- Attended TA meeting where we reviewed upcoming week & ENV 100 lecture.
+- Attended Gardell lab meeting and shared progress of current projects.
+- Prepared quiz section content for the week.
+
 ## 15 October 2023
+
+- Sunday. No work today.
+
 ## 14 October 2023
+
+- Saturday. Committee meeting preparatory work and p450 assay calculations.
+
 ## 13 October 2023
+
+- Attended my weekly FAB scheduling retrospective.
+- Attended ENV 100 lecture and CENV Best Practices Teaching Course that helps me learn and use best practices in pedagogy as a TA.
+- Prepped for lab work at UWT tomorrow.
+
 ## 12 October 2023
+
+- UWT day. Completed all p450 assays for the first 126 samples
+
 ## 11 October 2023
 
 - TA'd my last quiz section of the week, held office hours, finished grading discussion posts, and attended lecture for ENV 100
@@ -61,11 +109,13 @@ format:
 - Attended my weekly FAB scheduling retrospective where we work together to trade tips and tools for maximizing productivity in our day while alotting time to relax and step away from tasks.
 - Attended ENV 100 lecture and CENV Best Practices Teaching Course that helps me learn and use best practices in pedagogy as a TA.
 - Prepped for lab work at UWT tomorrow.
+
 ## 05 October 2023
 
 - UWT day. I finished the sample preparation for assays for the first 127 samples.
 - Attended lab meeting where we discussed a paper I chose for our targeted content.
 - Attended my weekly Black Grad Group Meeting. 
+
 ## 04 October 2023
 
 - TA and lecture attendance of ENV 100. Held my first office hour which wasn't attended but afforded me the opportunity to get my first round of quiz section content graded.
@@ -74,16 +124,11 @@ format:
 - 
 ## 03 October 2023
 
-<<<<<<< HEAD
 - Meeting with Steven to review GSAR/ annual progress report
 - Innovation Grant Meeting, whole team, to finalize details on training, schedule, and logistics.
 - Attended the SAFS Chat with Sam and Chelsea and heard a bit about their plan for the grad student experience
 - TA'd my first two quiz sections
-=======
-- TA'd my first two quiz sections and graded their section assigments.
-- Had my GSAR meeting with Steven & Innovation Grant monthly meeting.
 - Cleaned up some of the morphometrics data on the dissected mussels. 
->>>>>>> 00d7595cb3c05d494445fab5bdb56fdae95e424b
 
 ## 02 October 2023
 
