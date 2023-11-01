@@ -6,6 +6,12 @@ categories: ["monthly goals", "daily entries"]
 format:
   html:
     toc: true
+html_dependencies:
+  - name: "bootstrap"
+    version: "4.3.1"
+    src: "https://stackpath.bootstrapcdn.com"
+    stylesheet: "bootstrap.min.css"
+    script: "bootstrap.min.js"
 ---
 
 # Monthly Goals
@@ -17,22 +23,39 @@ NABS Dive Summit and we will run into Thanksgiving, my monthly goals are
 succinct and build upon existing progress.*
 
 -   Get through eDNA bioinformatics pipeline from CALeDNA trip
-    [![](https://progress-bar.dev/10/)](https://progress-bar.dev/10/)
--   Outline & draft p450 manuscript ![15](https://progress-bar.dev/15/)
--   Prepare poster for AGU in December ![0](https://progress-bar.dev/0/)
+    <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
+</div>  
 
-### October Goal Recap
+-   Outline & draft p450 manuscript <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 15%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">15%</div>
+</div>  
+
+-   Prepare poster for AGU in December <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+</div>
+
+## October Goal Recap
 
 -   Finish all BCA assays and p450 assays on initial 126 sample subset.
-    ![100](https://progress-bar.dev/100/)
+    <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
+</div>  
+
 
 -   Prepare for first committee meeting
-    ![100](https://progress-bar.dev/100/)
+    <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
+</div>  
+
 
 -   Get through eDNA bioinformatics pipeline from CALeDNA trip
-    ![10](https://progress-bar.dev/10/)
+    <div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
+</div>  
 
-### October Goal Reflection
+
+## October Goal Reflection
 
 *What worked, what didn't, where can I improve*
 
