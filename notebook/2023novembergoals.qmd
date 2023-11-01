@@ -10,12 +10,16 @@ format:
 
 # Monthly Goals
 
-## November Goals  
-*Knowing this is a short month because I will spend one week away at the NABS Dive Summit and we will run into Thanksgiving, my monthly goals are succinct and build upon existing progress.*  
+## November Goals
 
-- Get through eDNA bioinformatics pipeline from CALeDNA trip ![10](https://progress-bar.dev/10/)
-- Outline & draft p450 manuscript ![15](https://progress-bar.dev/15/)
-- Prepare poster for AGU in December ![0](https://progress-bar.dev/0/)
+*Knowing this is a short month because I will spend one week away at the
+NABS Dive Summit and we will run into Thanksgiving, my monthly goals are
+succinct and build upon existing progress.*
+
+-   Get through eDNA bioinformatics pipeline from CALeDNA trip
+    [![](https://progress-bar.dev/10/)](https://progress-bar.dev/10/)
+-   Outline & draft p450 manuscript ![15](https://progress-bar.dev/15/)
+-   Prepare poster for AGU in December ![0](https://progress-bar.dev/0/)
 
 ### October Goal Recap
 
