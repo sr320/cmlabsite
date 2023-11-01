@@ -20,17 +20,17 @@ format:
 
 ## 26 November 2023
 
-- Sunday. 
+-   Sunday.
 
 ## 25 November 2023
 
-- Saturday.
+-   Saturday.
 
 ## 24 November 2023
 
 ## 23 November 2023
 
-- Thanksgiving.
+-   Thanksgiving.
 
 ## 22 November 2023
 
@@ -40,11 +40,11 @@ format:
 
 ## 19 November 2023
 
-- Sunday.
+-   Sunday.
 
 ## 18 November 2023
 
-- Saturday.
+-   Saturday.
 
 ## 17 November 2023
 
@@ -58,15 +58,15 @@ format:
 
 ## 12 November 2023
 
-- Sunday.
+-   Sunday.
 
 ## 11 November 2023
 
-- Saturday.
+-   Saturday.
 
 ## 10 November 2023
 
-- Veteran's Day.
+-   Veteran's Day.
 
 ## 09 November 2023
 
@@ -78,11 +78,11 @@ format:
 
 ## 05 November 2023
 
-- Sunday.
+-   Sunday.
 
 ## 04 November 2023
 
-- Saturday.
+-   Saturday.
 
 ## 03 November 2023
 
@@ -90,4 +90,4 @@ format:
 
 ## 01 November 2023
 
-- 
+-   
