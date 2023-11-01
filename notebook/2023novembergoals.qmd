@@ -1,0 +1,47 @@
+---
+title: "November 2023 Goals"
+author: "Chris Mantegna"
+date: "2023-11-01"
+categories: ["monthly goals", "daily entries"]
+format:
+  html:
+    toc: true
+---
+
+# Monthly Goals
+
+### October Goal Progress
+
+-   Finish all BCA assays and p450 assays on initial 126 sample subset.
+    ![100](https://progress-bar.dev/100/)
+
+-   Prepare for first committee meeting
+    ![100](https://progress-bar.dev/100/)
+
+-   Get through eDNA bioinformatics pipeline from CALeDNA trip
+    ![10](https://progress-bar.dev/10/)
+
+### October Goal Reflection
+
+*What worked, what didn't, where can I improve*
+
+#### What Worked
+
+-   I planned my bench time and put it on my calendar.
+-   I set a meeting date for the committee meeting to meet a goal of
+    bypass in Winter Quarter.
+
+#### What Didn't
+
+-   I didn't follow- up on data availability or process fast enough.\
+-   I didn't spend my time waiting for data to clarify the workflow for
+    eDNA bioinformatics pipeline.
+
+#### Improve
+
+-   Spend time at the beginning of each week not just mapping out
+    'outside' obligations but tasks that are involved in my own work.
+-   Block dedicated time for my work, not just work impacting others. Do
+    this by breaking down to the task- level of the project and then
+    adding individual tasks to my calendar.
+-   Schedule 'bench' time for coding and computer- based work.
