@@ -20,17 +20,17 @@ format:
 
 ## 26 November 2023
 
--   Sunday.
+- Sunday.
 
 ## 25 November 2023
 
--   Saturday.
+- Saturday.
 
 ## 24 November 2023
 
 ## 23 November 2023
 
--   Thanksgiving.
+- Thanksgiving.
 
 ## 22 November 2023
 
@@ -40,11 +40,11 @@ format:
 
 ## 19 November 2023
 
--   Sunday.
+- Sunday.
 
 ## 18 November 2023
 
--   Saturday.
+- Saturday.
 
 ## 17 November 2023
 
@@ -58,15 +58,15 @@ format:
 
 ## 12 November 2023
 
--   Sunday. 
+- Sunday. 
 
 ## 11 November 2023
 
--   Saturday. Travel home from summit.
+- Saturday. Travel home from summit.
 
 ## 10 November 2023
 
--   Veteran's Day. Summit day six.
+- Veteran's Day. Summit day six.
 
 ## 09 November 2023
 
@@ -86,11 +86,11 @@ format:
 
 ## 05 November 2023
 
--   Sunday. Summit day one.
+- Sunday. Summit day one.
 
 ## 04 November 2023
 
--   Saturday. Travel to NABS Summit.
+- Saturday. Travel to NABS Summit.
 
 ## 03 November 2023
 
