@@ -58,44 +58,52 @@ format:
 
 ## 12 November 2023
 
--   Sunday.
+-   Sunday. 
 
 ## 11 November 2023
 
--   Saturday.
+-   Saturday. Travel home from summit.
 
 ## 10 November 2023
 
--   Veteran's Day.
+-   Veteran's Day. Summit day six.
 
 ## 09 November 2023
 
+- Summit day five.
+
 ## 08 November 2023
+
+- Summit day four.
 
 ## 07 November 2023
 
+- Summit day three.
+
 ## 06 November 2023
+
+- Summit day two.
 
 ## 05 November 2023
 
--   Sunday.
+-   Sunday. Summit day one.
 
 ## 04 November 2023
 
--   Saturday. Travel to NABS Summit
+-   Saturday. Travel to NABS Summit.
 
 ## 03 November 2023
 
-- Spent the AM wrapping up grading 
-- Attended 555 and wrapped up packing for summit.
+- Finished grading for ENV 100
+- Attended 555
 
 ## 02 November 2023
 
-- UWT Lab time. Prepped BCA & p450 plates with Ly.
-- Finished some dissections during plate incubation
+- UWT lab. Worked with Ly to finish showing her the sample workflow for BCA and p450 assays. We completed the plates for both assays.
+- Completed dissections during p450 plate incubation. 
 
 ## 01 November 2023
 
-- Attended ENV lecture, supported Silverdale's Wastewater Sup. John Poppe with his ENV 100 guest lecture, and attended FAB writitng accountability session.
-- Attended Tim's 2 hour presentation workshop. Learned how to simplify slides for maximum impact in presenting. 
+- Held quiz section, attended ENV 100 lecture, supported Silverdale Wastewater Program Sup. John Poppe through his guest lecture, and held 2 office hour Zoom sessions for the upcoming midterm exam review.
+- Attended Tim's presentation workshop.
 - Worked on some broken code with Logan to clean up our data from Yellow.
