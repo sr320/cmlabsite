@@ -82,12 +82,20 @@ format:
 
 ## 04 November 2023
 
--   Saturday.
+-   Saturday. Travel to NABS Summit
 
 ## 03 November 2023
 
+- Spent the AM wrapping up grading 
+- Attended 555 and wrapped up packing for summit.
+
 ## 02 November 2023
+
+- UWT Lab time. Prepped BCA & p450 plates with Ly.
+- Finished some dissections during plate incubation
 
 ## 01 November 2023
 
--   
+- Attended ENV lecture, supported Silverdale's Wastewater Sup. John Poppe with his ENV 100 guest lecture, and attended FAB writitng accountability session.
+- Attended Tim's 2 hour presentation workshop. Learned how to simplify slides for maximum impact in presenting. 
+- Worked on some broken code with Logan to clean up our data from Yellow.
