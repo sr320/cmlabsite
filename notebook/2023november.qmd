@@ -12,7 +12,15 @@ format:
 
 ## 30 November 2023
 
+- Attended lab meeting and shared plotting resources in R.
+- Attended BGG.
+- Worked on the p450 data and references for the manuscript draft.
+
 ## 29 November 2023
+
+- TA'd and attended lecture for ENV 100.
+- Attended FAB writing accountability.
+- Worked on data for Logan, sorted my purchasing issue and put together my PowerSoil optimization for Alison and Sarah.
 
 ## 28 November 2023
 
