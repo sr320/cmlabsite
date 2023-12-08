@@ -12,3 +12,6 @@ page-layout: full
 title-block-banner: true
 ---
 
+add posts for each project w/ steps
+eDNA
+p450
