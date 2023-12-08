@@ -14,9 +14,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ChrisMantegna
-
 ---
 
 # Welcome!
 
-Witty thing that helps spark interest to explore my work, SAFS, BIMS, collaborators eventually.
+Witty thing that helps spark interest to explore my work, SAFS, BIMS,
+collaborators eventually.

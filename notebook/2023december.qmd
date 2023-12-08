@@ -86,7 +86,7 @@ format:
 
 ## 08 December 2023
 
-- Writing accountability with Taylor and FAB accountability review meetings.
+- Writing accountability with Taylor and FAB accountability goal review meetings.
 
 ## 07 December 2023
 
@@ -99,7 +99,7 @@ format:
 
 - Administered the written portion of the final in ENV 100 and attended the teaching team meeting to divide up final grading responsibilities.
 - Worked on the reworked version of the WDFW presentation.
-- Gave the WDFW presentation with ALison, Ly, Jim Gawel, Danielle Nordstrom, Mariko Langness, Molly Shuman- Goodier, and Luisa Harding. It went well. It was an overview of our plan and process. It was not my best presentation, but it did provoke some good conversation and suggestions for next steps and collaborations in the future. 
+- Gave the WDFW presentation with Alison, Ly, Jim Gawel, Danielle Nordstrom, Mariko Langness, Molly Shuman- Goodier, and Luisa Harding. It went well. It was an overview of our plan and process. It was not my best presentation, but it did provoke some good conversation and suggestions for next steps and collaborations in the future. 
 - Finished all assignment grading up until the final and final project (not submitted yet).
 
 
@@ -111,7 +111,7 @@ format:
 ## 04 December 2023
 
 - Attended ENV 100 teaching team meeting and lecture.
-- Read resources from Alison re: inflated p450 values/ made a plan of attack for verifying flourescence inflation by agent versus mussel activity.
+- Read resources from Alison re: inflated p450 values/ made a plan of attack for verifying fluorescence inflation by agent versus mussel activity.
 - Working on p450 data to present on Wednesday. Since the data is a bit off, I'm plotting sites to see what trends I can look at the are fair to share with some accuracy.
 
 ## 03 December 2023
@@ -130,5 +130,5 @@ format:
 - Attended ENV lecture, FAB accountability meetng, and 555.
 - Met with Ly to discuss p450 data and next steps for the SOD process.
 - Worked on p450 data and reached out for the last data for Logan's work.
-- Submitted my abstract on eDNA and mentroship work to UN Ocean Decades.
+- Submitted my abstract on eDNA and mentorship work to UN Ocean Decades.
 - Ended the workday with a meeting with Alison re: p450 data.
