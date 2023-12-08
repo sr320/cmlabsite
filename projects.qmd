@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 ---
+*Make these live links to the notebook posts*
 
 ## Ecotoxicology - Mytilus sp., biochemical assays and molecular tools
 
