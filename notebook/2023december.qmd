@@ -26,19 +26,26 @@ format:
 
 ## 26 December 2023
 
+- Data viz and interpretation for Logan's poster.
+- eDNA pipeline for data viz outputs for my presentation.
+
 ## 25 December 2023
 
-- Christmas Day.
+- Christmas Day. Off.
 
 ## 24 December 2023
 
-- Sunday. Christmas Eve.
+- Sunday. Christmas Eve. Off.
 
 ## 23 December 2023
 
-- Saturday. 
+- Saturday. Off
 
 ## 22 December 2023
+
+- Attended Science Hour to get my data on Gannet and Raven. 
+- Worked on texr with Logan.
+- Read/ skimmed 2 papers on biomarkers and 1 on ecotoxicology.
 
 ## 21 December 2023
 
