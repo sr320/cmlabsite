@@ -1,7 +1,7 @@
 ---
-title: "December 2023 Goals"
+title: "January 2024 Goals"
 author: "Chris Mantegna"
-date: "2023-12-01"
+date: "2024-1"
 categories: ["monthly goals", "daily entries"]
 format:
   html:
@@ -16,7 +16,7 @@ html_dependencies:
 
 # Monthly Goals
 
-## December Goals
+## January Goals (replace with jan)
 
 *Knowing this is another short month due to the holidays, my monthly
 goals are succinct and build upon existing progress.*
@@ -53,7 +53,7 @@ goals are succinct and build upon existing progress.*
 :::
 :::
 
-## November Goal Recap
+## December Goal Recap (update to reflect december)
 
 -   Get through eDNA bioinformatics pipeline from CALeDNA trip
 
@@ -79,30 +79,25 @@ goals are succinct and build upon existing progress.*
 :::
 :::
 
-## November Goal Reflection
+## December Goal Reflection
 
 *What worked, what didn't, where can I improve*
 
 #### What Worked
 
--   Small amounts of daily progress over large chunks of work blocks
--   I was clear about my limitations and stuck to imminent projects.
-    This resulted in going to AGU as a BIMS ambassador only instead of
-    going as an ambassador and presenting.
+-   I set a boundary with my workload and didn't present at AGU, just
+    spent my time listening to plenaries and staffing the BIMS booth.
 
 #### What Didn't
 
--   I didn't make a comprehensive list of steps to accomplish each goal.
--   I didn't spend my time waiting for data to clarify the workflow for
-    eDNA bioinformatics pipeline.
+-   It felt like everything went wrong at some point which is an
+    indicator of overload. If things of varying magnitude feel
+    overwhelming when they jump the track there isn't enough space to
+    adjust. I was way too overloaded coming into the last month of the
+    year and it showed.
 
 #### Improve
 
--   Prioritize workload and then create steps, it is clear that not all
-    steps for all projects are a priority.
--   Work on switching tasks and making better documentation to support
-    shifting between tasks to encourage overall progress, not just an
-    'all or nothing' outcome.
--   Consistently schedule 'bench' time for coding and computer- based
-    work at the beginning of the week when I do my weekly schedule
-    review.
+-   Take whatever I believe I can accomplish and cut it in half.
+-   Going back to basic habit tracking to see where I'm losing time/
+    momentum in task shifts.
