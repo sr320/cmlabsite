@@ -36,12 +36,21 @@ format:
 
 ## 26 December 2023
 
+<<<<<<< HEAD
 - In lab working on dissections.
 - Working on physical intertidal survey results visualizations for my SICB presentation.
 
 ## 25 December 2023
 
 - Christmas Day. Off. 
+=======
+- Data viz and interpretation for Logan's poster.
+- eDNA pipeline for data viz outputs for my presentation.
+
+## 25 December 2023
+
+- Christmas Day. Off.
+>>>>>>> 8d8bbf8599116ddf77caaaedeed7502f473f06ad
 
 ## 24 December 2023
 
@@ -49,12 +58,22 @@ format:
 
 ## 23 December 2023
 
+<<<<<<< HEAD
 - Saturday. Data cleaning of the MARINe data for Logan's work.
 
 ## 22 December 2023
 
 - Attended science hour to get help with moving my data to and from Gannett.
 - Worked on more tissue dissections.
+=======
+- Saturday. Off
+
+## 22 December 2023
+
+- Attended Science Hour to get my data on Gannet and Raven. 
+- Worked on texr with Logan.
+- Read/ skimmed 2 papers on biomarkers and 1 on ecotoxicology.
+>>>>>>> 8d8bbf8599116ddf77caaaedeed7502f473f06ad
 
 ## 21 December 2023
 
