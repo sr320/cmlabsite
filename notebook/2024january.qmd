@@ -76,15 +76,17 @@ format:
 
 ## 15 January 2024
 
--   
+- Monday. I spent today working on my Hall application. I am not going to move forward with the application. I want something a bit more aligned with my end goal. I have to tie my larger scale ecosystem work to my mechanistic interrogation and I believe a combination of metabolomics and microbiome work on mytilus can be that bridge. 
+- FAB writing accountability meeting.
 
 ## 14 January 2024
 
--   
+- Sunday. Worked on my bypass package, mainly my MS thesis.
+- Finished grading for the week and sent the weekly round-up email to the quiz sections.
 
 ## 13 January 2024
 
--   
+- Saturday. Off.
 
 ## 12 January 2024
 
@@ -108,7 +110,7 @@ format:
 
 ## 09 January 2024
 
-- UWT lab day. I updated the tissue prep protocol for the p450 assays to mitigate some of the interference we saw in the first round of data acquisition. After that I ran a test assay to assess fluorescence levels with the BFC across a gradient, with and without sample, and with and without buffer and DI water. The result of that plate is that 
+- UWT lab day. I updated the tissue prep protocol for the p450 assays to mitigate some of the interference we saw in the first round of data acquisition. After that I ran a test assay to assess fluorescence levels with the BFC across a gradient, with and without sample, and with and without buffer and DI water. 
 
 ## 08 January 2024
 

@@ -8,9 +8,9 @@ format:
     toc: true
 ---
 
-## Monthly Goals  
+## Monthly Goals
 
-- Finish all BCA aasays and p450 assays
-- Prepare for first committee meeting 
-- Get through eDNA bioinformatics pipeline with the code and files from CALeDNA
-
+-   Finish all BCA aasays and p450 assays
+-   Prepare for first committee meeting
+-   Get through eDNA bioinformatics pipeline with the code and files
+    from CALeDNA
