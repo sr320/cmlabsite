@@ -60,19 +60,23 @@ format:
 
 ## 19 January 2024
 
--   
+- Accountability writing hour with Taylor.
+- Attended ENV 100 lecture.
 
 ## 18 January 2024
 
--   
+- Attended lab meeting and met with Steven to discuss the progess on a few projects I am working on.
+- Spent time working on the literature review for a manuscript summary due next week.
 
 ## 17 January 2024
 
--   
+- Attended ENV lecture and held office hours.
+- Had my monthly mentorship meeting with Julia and met with Jose to discuss authoring an article together.
+- Started working on the p450 data. I completed the BCA protein calculations and the subsequent p450 values normalized by the protein concentrations. These values are aligned with the rest of the redo so I can move forward with analysis.
 
 ## 16 January 2024
 
--   
+- UWT lab day. I finished the qc run for the BCA assay and the last samples for the p450 assay. All data is in hand for this assay, finally. Ly and I talked through next steps with the SOD assays. The tissue homogenization process is two steps and straight to assay, so the feasibility of completing SOD assays by the end of the month is highly likely.
 
 ## 15 January 2024
 
