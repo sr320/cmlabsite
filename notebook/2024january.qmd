@@ -32,11 +32,13 @@ format:
 
 ## 26 January 2024
 
--   
+- Writing accountability session 1 of 2 with Taylor this morning. I used this early time to catch up on emails and prep for my quiz section wekly round-up emails to set them up for the following week.
+- Attended ENV lecture and led quiz section.
 
 ## 25 January 2024
 
--   
+-   UWT lab day. We completed all homogenizations for the SOD assay. We made the stock buffers and ran our first plate. Quick plotting looks like there are a few values that fall outside of the standard curve set by the assay standards. I will verify my calculations to determine if we need to dilute the samples, but for now it looks like we can run as outlined in the assay protocol from the manufacturer.
+- I received my abstract confirmation for presentation from UN Ocean Decades. I will be presenting in Session 4, Community engaged science and mentorship, where I will present about my Yellow Island work. I'm definitely excited.
 
 ## 24 January 2024
 
