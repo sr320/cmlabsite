@@ -12,23 +12,32 @@ format:
 
 ## 31 January 2024
 
--   
+- Attended Env lecture.
+- Attended BIMS Institute meeting. This was our initial meeting where we discussed the purpose of the institue and where we were heading for the next year.
+- Worked on the p450 and SOD data for the biomarker paper. There are some data anomalies that need to be thrown out, but I will review those with Alison next week.
+- Graded OSS papers for ENV.
+- Attended the first true BGG of the quarter where we set goals and intentions for the upcoming semester and year.
 
 ## 30 January 2024
 
--   
+- UWT lab day. I reran all BCAs that were out of range from Saturday's run. Worked with Ly to load and run all remaining SOD assays.
+- I worked with Sam to confirm my SOD values were correct from my first plate.
+- Met with Professor Jennifer Burnaford to discuss being a speaker at the MARINe Annual Conference. I will speak about integrating molecular techniques with existing intertidal methods to make the field more accessible to all.
 
 ## 29 January 2024
 
--   
+- Attended ENV 100 lecture, teaching team meeting and led two quiz sections. Feedback from the students on how this course matches expectation was not what I expected. Most frustration comes with balancing workload, lack of feedback, and the assignments in this course. Others come from navigating Canvas and fully reading the instructions. I will take this information to the teaching team meeting next week.
 
 ## 28 January 2024
 
--   
+- Sunday. Morning writing accountability with Taylor. I did all of the calculations for the BCAs from the day before and rewrote some of the SOD protocol to include the nuance of things like the shaking table settings and reagent prep timing. 
+- Watched my Ravens lose in the AFC divisional round.
+- Evening writing accountability with Taylor. I completed my quiz section preparation and poster groups set-up for Monday.
+- Graded OSS papers for ENV.
 
 ## 27 January 2024
 
--   
+- Saturday. UWT labday. I ran a SOD test plate and BCA dilution plate and did the math before completing the BCAs for all 312 samples.
 
 ## 26 January 2024
 

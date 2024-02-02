@@ -120,9 +120,15 @@ format:
 
 ## 2 February 2024
 
--   
+- Held writing accountability with Taylor. I worked on updating my lab notebook daily log and my February goals. I also worked on putting together the poster groups for my Friday quiz section before cleaning up my inbox and following up on some administrative tasks from yesterday.
 
 ## 1 February 2024
 
--
+- Worked on an abstract with a NABS friend for a seminar she is leading for Diving With a Purpose.
+- Attended lab meeting where we talked all things project management with Ariana leading the conversation.
+- Met with Steven to go over some of the budget logistics for the Innovation Grant meeting later this afternoon. We also discussed the next steps in the mussel work. I will get the site selection to him by Monday and open a GH Issue to discuss what epigenetic work we want to do.
+- Held the first Innovation Grant meeting for the year where we caught up on what we did last year and put out the work schedule for what we will complete this year. I will compile an action items email outlining deliverables for the project to send out by Friday.
+- Held ENV office hours where 4 students showed! 
+- Attended the Salish Sea Institutes webinar "The Puget Sound Ecosystem Monitoring Program". The talk was led by Katrina Radach and focused on how the PSEMP workgroups defined their workloads, how to get involved, and let us know that fellowships existed for funding work that aligns with the plans of the institute.
+- Finished OSS grading.
 
