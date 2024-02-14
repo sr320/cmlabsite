@@ -72,17 +72,22 @@ format:
 
 ## 14 February 2024
 
--   
+- Attended Taylor's defense via zoom and watched her become a DOCTOR!
+- Worked on catching up with emails and deliverables to the biomarkers team, the eDNA team, and the innovation grant team.
+- Mentor session with Julia.
 
 ## 13 February 2024
 
--   
+- Meeting with Camille to go over the 2023 Yellow island eDNA data. We will meet every three weeks or so to touch base on the analysis and the eventual paper that will come from the work.
+- Meeting with Ly to go over our current biomarker data. We will meet weekly to do the analysis and the the prep for her Capstone poster.
+- DDCSP mentor meeting with Martha and the scholars that are interested in the Yellow Island program for their summer experience. I met two great scholars and got to overlap with Taylor, a former mentee and new DDCSP mentor this year.
+- Completed my portion of midterm grading for ENV 100.
 
 ## 12 February 2024
 
 - Attended ENV 100 lecture and teaching team meeting.
 - Led both Quiz Sections and their respective UW Farms tours.
-- FAB Writing accountability where I worked on...
+- FAB Writing accountability where I worked on the qc run of my SOD values that were out of range. The problem here is that the qc values appear to also be out of range for the diluted samples. This leads me to question whether or not diluting in the sample buffer like they suggest is creating interference.
 
 ## 11 February 2024
 
