@@ -1,5 +1,5 @@
 ---
-title: "Chris Mantegna  Graduate Student     School of Aquatic and Fishery Sciences   University of Washington"
+title: "Chris Mantegna  Graduate Student     SAFS   University of Washington"
 image: MantegnaChrisPhoto.JPG
 about:
   template: trestles
@@ -16,7 +16,7 @@ about:
       href: https://github.com/ChrisMantegna
 ---
 
-# won't you celebrate with me
+## won't you celebrate with me
 
 by [Lucille
 Clifton](https://www.poetryfoundation.org/poets/lucille-clifton)
