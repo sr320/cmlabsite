@@ -1,7 +1,7 @@
 ---
 title: "November 2023 Goals"
 author: "Chris Mantegna"
-date: "2023-11-01"
+date: "2023-10-31"
 categories: ["monthly goals", "daily entries"]
 format:
   html:
@@ -22,9 +22,13 @@ html_dependencies:
 NABS Dive Summit and we will run into Thanksgiving, my monthly goals are
 succinct and build upon existing progress.*
 
-- Get through eDNA bioinformatics pipeline from CALeDNA trip <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">10%</div>
-</div>
+-   Get through eDNA bioinformatics pipeline from CALeDNA trip
+
+    ::: progress
+    ::: {.progress-bar role="progressbar" style="width: 10%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"}
+    10%
+    :::
+    :::
 
 -   Outline & draft p450 manuscript
 

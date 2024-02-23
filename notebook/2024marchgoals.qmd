@@ -1,0 +1,28 @@
+---
+title: "March 2024 Goals"
+author: "Chris Mantegna"
+date: "2024-2-29"
+categories: ["monthly goals", "daily entries"]
+format:
+  html:
+    toc: true
+html_dependencies:
+  - name: "bootstrap"
+    version: "4.3.1"
+    src: "https://stackpath.bootstrapcdn.com"
+    stylesheet: "bootstrap.min.css"
+    script: "bootstrap.min.js"
+---
+
+## March Goals
+Add tags to my daily post. 
+draft of p450.\
+headway on homo-aquaticus\
+eDNA analysis.
+
+
+## February Goal Rewind + Reflection
+### February Goal Rewind
+
+
+### Reflection

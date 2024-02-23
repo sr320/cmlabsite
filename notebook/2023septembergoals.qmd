@@ -1,15 +1,15 @@
 ---
 title: "September 2023 Goals"
 author: "Chris Mantegna"
-date: "2023-09-01"
+date: "2023-08-31"
 categories: ["monthly goals", "daily entries"]
 format:
   html:
     toc: true
 ---
 
-## Monthly Goals  
+## Monthly Goals
 
-- Finish dissections of the targeted locations
-- Gather and finalize content for Yellow Island website
-- Begin eDNA bioinformatics pipeline & check up on ONT data
+-   Finish dissections of the targeted locations
+-   Gather and finalize content for Yellow Island website
+-   Begin eDNA bioinformatics pipeline & check up on ONT data

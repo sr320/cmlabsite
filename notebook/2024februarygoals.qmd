@@ -1,5 +1,24 @@
-Add tags to my daily post. 
-draft of p450.\
-headway on homo-aquaticus\
-eDNA analysis.
+---
+title: "February 2024 Goals"
+author: "Chris Mantegna"
+date: "2024-1-31"
+categories: ["monthly goals", "daily entries"]
+format:
+  html:
+    toc: true
+html_dependencies:
+  - name: "bootstrap"
+    version: "4.3.1"
+    src: "https://stackpath.bootstrapcdn.com"
+    stylesheet: "bootstrap.min.css"
+    script: "bootstrap.min.js"
+---
+
+# Monthly Goals
+
+## February Goals
+
+My goal this month is to reset. I have struggled through meeting deadlines and future task planning, so I am resetting this month. My responsibilities don't wane but my focus and productivity do. Q1 is a quarter to reset while producing my first, first- authored manuscript. 
+
+
 

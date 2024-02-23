@@ -1,7 +1,7 @@
 ---
 title: "January 2024 Goals"
 author: "Chris Mantegna"
-date: "2024-1"
+date: "2023-12-31"
 categories: ["monthly goals", "daily entries"]
 format:
   html:
@@ -21,20 +21,29 @@ html_dependencies:
 This is a month to reset, refocus, and be prepared to take on
 opportunities as they come.
 
--   Clean up my GH repositories and lab website. <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
-</div>  
+-   Clean up my GH repositories and lab website.
 
+    ::: progress
+    ::: {.progress-bar role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"}
+    10%
+    :::
+    :::
 
--   Clean up my calendars and set up a standing scheduler tool. <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-</div>
+-   Clean up my calendars and set up a standing scheduler tool.
 
+    ::: progress
+    ::: {.progress-bar role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"}
+    50%
+    :::
+    :::
 
--   Clearly outline my writing time and writing objectives. <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
-</div>
+-   Clearly outline my writing time and writing objectives.
 
+    ::: progress
+    ::: {.progress-bar role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"}
+    10%
+    :::
+    :::
 
 ## December Goal Recap
 
@@ -76,7 +85,8 @@ opportunities as they come.
 
 #### What Worked
 
--   Very little. It was difficult to stay on task, manage unexpected time- sucks and expected road blocks.  
+-   Very little. It was difficult to stay on task, manage unexpected
+    time- sucks and expected road blocks.
 
 #### What Didn't
 
@@ -89,5 +99,6 @@ opportunities as they come.
 #### Improve
 
 -   Take whatever I believe I can accomplish and cut it in half.
--   Say 'No'.  
--   Move forward with attention and alignment. The days of saying yes to opportunities because they are presented are on their way out. 
+-   Say 'No'.\
+-   Move forward with attention and alignment. The days of saying yes to
+    opportunities because they are presented are on their way out.

@@ -1,5 +1,5 @@
 ---
-title: "Chris Mantegna, Graduate Student School of Aquatic and Fishery Science   University of Washington"
+title: "Chris Mantegna  Graduate Student     School of Aquatic and Fishery Sciences   University of Washington"
 image: MantegnaChrisPhoto.JPG
 about:
   template: trestles
@@ -17,19 +17,20 @@ about:
 ---
 
 # won't you celebrate with me
-by [Lucille Clifton](https://www.poetryfoundation.org/poets/lucille-clifton)
 
-won't you celebrate with me
-what i have shaped into
-a kind of life? i had no model.
-born in babylon
-both nonwhite and woman
-what did i see to be except myself?
-i made it up
-here on this bridge between
-starshine and clay,
-my one hand holding tight
-my other hand; come celebrate
-with me that everyday
-something has tried to kill me
+by [Lucille
+Clifton](https://www.poetryfoundation.org/poets/lucille-clifton)
+
+won't you celebrate with me\
+what i have shaped into a kind of life? i had no model.\
+born in babylon\
+both nonwhite and\
+woman what did i see to be except myself?\
+i made it up\
+here on this bridge between\
+starshine and clay,\
+my one hand holding tight\
+my other hand; come celebrate\
+with me that everyday\
+something has tried to kill me\
 and has failed.

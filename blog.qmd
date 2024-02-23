@@ -12,4 +12,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-## This blog showcases the interests and influences that help shape my work.  
+## This blog showcases the interests and influences that help shape my work.

@@ -1,0 +1,88 @@
+---
+title: "Month 2024 Goals"
+author: "Chris Mantegna"
+date: "2024 last day of previous month"
+categories: ["monthly goals", "daily entries"]
+format:
+  html:
+    toc: true
+html_dependencies:
+  - name: "bootstrap"
+    version: "4.3.1"
+    src: "https://stackpath.bootstrapcdn.com"
+    stylesheet: "bootstrap.min.css"
+    script: "bootstrap.min.js"
+---
+
+# Monthly Goals
+
+## February Goal Rewind + Reflection
+
+
+-   Goal 1: First one and progress bar
+
+    ::: progress ::: {.progress-bar role="progressbar" style="width:
+    10%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"} 10%
+    ::: :::
+
+-   Goal 2: Second one and progress bar
+
+    ::: progress ::: {.progress-bar role="progressbar" style="width:
+    15%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"} 15%
+    ::: :::
+
+-   Goal 3: Third one and progress bar
+
+    ::: progress
+    ::: {.progress-bar role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"}
+    0%
+    :::
+    :::
+
+### February Goal Rewind
+
+-   Goal 1: goal
+
+    ::: progress ::: {.progress-bar role="progressbar" style="width:
+    100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"}
+    100% ::: :::
+
+-   Goal 2: goal
+
+    ::: progress ::: {.progress-bar role="progressbar" style="width:
+    100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"}
+    100% ::: :::
+
+-   Goal 3: goal
+
+    ::: progress ::: {.progress-bar role="progressbar" style="width:
+    10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"} 10%
+    ::: :::
+
+
+
+### Reflection
+
+*What worked, what didn't, where can I improve*
+
+#### What Worked
+
+-   I planned my bench time and put it on my calendar.
+-   I set a meeting date for the committee meeting to meet a goal of
+    bypass in Winter Quarter.
+
+#### What Didn't
+
+-   I didn't follow- up on data availability or process fast enough.\
+-   I didn't spend my time waiting for data to clarify the workflow for
+    eDNA bioinformatics pipeline.
+
+#### Improve
+
+-   Spend time at the beginning of each week not just mapping out
+    'outside' obligations but tasks that are involved in my own work.
+-   Block dedicated time for my work, not just work impacting others. Do
+    this by breaking down to the task- level of the project and then
+    adding individual tasks to my calendar.
+-   Schedule 'bench' time for coding and computer- based work.
+

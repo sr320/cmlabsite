@@ -15,5 +15,7 @@ about:
       href: https://github.com/ChrisMantegna
 ---
 
-This is about me - my work and my goals for the degree attainment.  
-"Set audacious goals, make yourself your number one priority, and take up space. You are an integral part of our ecosystem- not an afterthought or a check in a box- you don't just belong, you are necessary. Adjust your actions accordingly." - CM 
+"Set audacious goals, make yourself your number one priority, and take
+up space. You are an integral part of our ecosystem- not an afterthought
+or a check in a box- you don't just belong, you are necessary. Adjust
+your actions accordingly." - CM
