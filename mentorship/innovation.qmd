@@ -7,3 +7,5 @@ format:
   html:
     toc: true
 ---
+
+About to be a fun 5 weeks in the summer!
