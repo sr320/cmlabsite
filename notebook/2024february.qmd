@@ -24,148 +24,238 @@ format:
 
 ## 26 February 2024
 
--   
+- Met with Mo over coffee to discuss her transition from PhD to teaching.
+- Worked on my Marine Bio seminar presentation.
+- Attended ENV lecture, teaching team meeting and held two of three quiz sections.
 
 ## 25 February 2024
 
--   
+-   Sunday. I continued work on my Marine Bio Seminar presentation and preparing the quiz section materials and presentation for this week.
 
 ## 24 February 2024
 
--   
+- Saturday. Persuasive essay grading and preparation of reading list for my upcoming meeting with Professor Ybarra.
 
 ## 23 February 2024
 
--   
+- Attended ENV lecture.
+- Jumped into science hour to get support for my biomarker data. I asked about any parameters to truncate the dataset and some visualization options. Additionally, touched base re: homo-aquaticus issue and potential ideas for upcoming shellfish experiments where Kathleen and I could gain from overlapping experiments.
+- Continued to work through solutions to my data visualization on the biomarker data. Cannot plot based on ranked values, so that is still a stumbling block.
+- Met with Alison to go over the current biomarker data. Got some really helpful feedback for site manipulation/ correlation information.
+- Attended the Gardell Lab meeting.
 
 ## 22 February 2024
 
-- Put together resources and my bio for the Marine Bio seminar.
-- Attended lab meeting where we discussed and troubleshot experimental designs for Kathleen and Sarah.
-- Met with Sea Potential to set up a science educator meeting in May. I will be the marine biologist 6-10 high school students will meet on May 8th in the lab. We discussed the logistics of this 4 hour session. I am excited to work through a lesson for them that is hands-on.
-- Met with Ly so we could discuss the progress on the biomarker data. We worked on framing her capstone and next steps for our meeting next week. 
-- Held office hours for ENV 100.
-- Worked on my lab notebook. I am trying to clean up my site and make it a useful tool.I'm going to make some adjustments so that it showcases my science, my mentorship/ teaching, and my guiding principles in a way that doesn't sound overly douchey.
+-   Put together resources and my bio for the Marine Bio seminar.
+-   Attended lab meeting where we discussed and troubleshot experimental
+    designs for Kathleen and Sarah.
+-   Met with Sea Potential to set up a science educator meeting in May.
+    I will be the marine biologist 6-10 high school students will meet
+    on May 8th in the lab. We discussed the logistics of this 4 hour
+    session. I am excited to work through a lesson for them that is
+    hands-on.
+-   Met with Ly so we could discuss the progress on the biomarker data.
+    We worked on framing her capstone and next steps for our meeting
+    next week.
+-   Held office hours for ENV 100.
+-   Worked on my lab notebook. I am trying to clean up my site and make
+    it a useful tool. I'm going to make some adjustments so that it
+    showcases my science, my mentorship/ teaching, and my guiding
+    principles in a way that doesn't sound overly douchey.
 
 ## 21 February 2024
 
-- Attended ENV lecture and held essay support drop-ins.
-- Attended BGG weekly meeting.
-- Began framing/ outlining my seminar presentation for Marine Biology Seminar next week.
+-   Attended ENV lecture and held essay support drop-ins.
+-   Attended BGG weekly meeting.
+-   Began framing/ outlining my seminar presentation for Marine Biology
+    Seminar next week.
 
 ## 20 February 2024
 
-- Grading and essay review sessions with the ENVIR students.
-- Biomarker visualizations.
+-   Grading and essay review sessions with the ENVIR students.
+-   Biomarker visualizations.
 
 ## 19 February 2024
 
-- Monday. Off.
+-   Monday. Off.
 
 ## 18 February 2024
 
-- Sunday. Off.
+-   Sunday. Off.
 
 ## 17 February 2024
 
-- Saturday. Attend the Eco Afro Futures Community event in Oakland. It was day full of speakers, experts in community and the work, and future thinking. I was so excited to share space with other folks whose vision for environmental health and change is rooted in community and inclusionary practices.
+-   Saturday. Attend the Eco Afro Futures Community event in Oakland. It
+    was day full of speakers, experts in community and the work, and
+    future thinking. I was so excited to share space with other folks
+    whose vision for environmental health and change is rooted in
+    community and inclusionary practices.
 
 ## 16 February 2024
 
-- Attended ENV lecture and held the final quiz section of the week.
-- Attended FAB accountability meeting where I revamped my weekly retros and calendar blocking to reduce the task swapping induced loss of focus.
+-   Attended ENV lecture and held the final quiz section of the week.
+-   Attended FAB accountability meeting where I revamped my weekly
+    retros and calendar blocking to reduce the task swapping induced
+    loss of focus.
 
 ## 15 February 2024
 
-- Held Quiz Section AJ for fellow TA that was out sick, held office hours and finished weekly grading for ENV 100.
-- Finished SOD calculations for the qc run and most of the values are still out of range. The solution to dilute either the samples or the standards was unsuccessful.
+-   Held Quiz Section AJ for fellow TA that was out sick, held office
+    hours and finished weekly grading for ENV 100.
+-   Finished SOD calculations for the qc run and most of the values are
+    still out of range. The solution to dilute either the samples or the
+    standards was unsuccessful.
 
 ## 14 February 2024
 
-- Attended Taylor's defense via zoom and watched her become a DOCTOR!
-- Worked on catching up with emails and deliverables to the biomarkers team, the eDNA team, and the innovation grant team.
-- Mentor session with Julia where we discussed framing a dissertation, my Nature Opinion piece, and where to place boundaries on geography frameworks for my work.
-- Attended BGG meeting.
+-   Attended Taylor's defense via zoom and watched her become a DOCTOR!
+-   Worked on catching up with emails and deliverables to the biomarkers
+    team, the eDNA team, and the innovation grant team.
+-   Mentor session with Julia where we discussed framing a dissertation,
+    my Nature Opinion piece, and where to place boundaries on geography
+    frameworks for my work.
+-   Attended BGG meeting.
 
 ## 13 February 2024
 
-- Meeting with Camille to go over the 2023 Yellow island eDNA data. We will meet every three weeks or so to touch base on the analysis and the eventual paper that will come from the work.
-- Meeting with Ly to go over our current biomarker data. We will meet weekly to do the analysis and the the prep for her Capstone poster.
-- DDCSP mentor meeting with Martha and the scholars that are interested in the Yellow Island program for their summer experience. I met two great scholars and got to overlap with Taylor, a former mentee and new DDCSP mentor this year.
-- Completed my portion of midterm grading for ENV 100.
+-   Meeting with Camille to go over the 2023 Yellow island eDNA data. We
+    will meet every three weeks or so to touch base on the analysis and
+    the eventual paper that will come from the work.
+-   Meeting with Ly to go over our current biomarker data. We will meet
+    weekly to do the analysis and the the prep for her Capstone poster.
+-   DDCSP mentor meeting with Martha and the scholars that are
+    interested in the Yellow Island program for their summer experience.
+    I met two great scholars and got to overlap with Taylor, a former
+    mentee and new DDCSP mentor this year.
+-   Completed my portion of midterm grading for ENV 100.
 
 ## 12 February 2024
 
-- Attended ENV 100 lecture and teaching team meeting.
-- Led both Quiz Sections and their respective UW Farms tours.
-- FAB Writing accountability where I worked on the qc run of my SOD values that were out of range. The problem here is that the qc values appear to also be out of range for the diluted samples. This leads me to question whether or not diluting in the sample buffer like they suggest is creating interference.
+-   Attended ENV 100 lecture and teaching team meeting.
+-   Led both Quiz Sections and their respective UW Farms tours.
+-   FAB Writing accountability where I worked on the qc run of my SOD
+    values that were out of range. The problem here is that the qc
+    values appear to also be out of range for the diluted samples. This
+    leads me to question whether or not diluting in the sample buffer
+    like they suggest is creating interference.
 
 ## 11 February 2024
 
-- Sunday Race Day!
-- Prepared for Quiz Section this week.
+-   Sunday Race Day!
+-   Prepared for Quiz Section this week.
 
 ## 10 February 2024
 
-- Saturday. UWT lab day. I reran the 109 samples that fell beyond the standard curve for the SOD assay. About half fell below the curve and half above. For the lower end samples, I diluted all of the standards to lower the curve. I used a 50% reduction, a 10- fold reduction, and a 100- fold reduction. For the higher end samples, I diluted the samples by half. Because most of the high samples were more than double the upper limit on their respective standard curves, I halved the concentration and then plated each with the full standard and the 50% reduction to ensure the samples that weren't that high in protein content would also fall in one curve or the other.
-- Held office hours from 10am - 12pm for students to get support for their persuasive essay drafts.
-- Was a preliminary audience member for Taylor's practice run through of her dissertation.
+-   Saturday. UWT lab day. I reran the 109 samples that fell beyond the
+    standard curve for the SOD assay. About half fell below the curve
+    and half above. For the lower end samples, I diluted all of the
+    standards to lower the curve. I used a 50% reduction, a 10- fold
+    reduction, and a 100- fold reduction. For the higher end samples, I
+    diluted the samples by half. Because most of the high samples were
+    more than double the upper limit on their respective standard
+    curves, I halved the concentration and then plated each with the
+    full standard and the 50% reduction to ensure the samples that
+    weren't that high in protein content would also fall in one curve or
+    the other.
+-   Held office hours from 10am - 12pm for students to get support for
+    their persuasive essay drafts.
+-   Was a preliminary audience member for Taylor's practice run through
+    of her dissertation.
 
 ## 9 February 2024
 
-- Started the day with my last Taylor writing accountability meeting! I worked on framing my DDCSP presentation for the upomng week's cohort. 
-- Attended ENV lecture and held my final quiz section of the week.
-- Jumped into science hour to clarify some ongoing work tasks and chat about DEI.
-- Took a walk with Eli to chat about the class and our larger teaching goals. It was an awesome talk.
-- Attended FAB retros and worked on where I could block out some working time next week.
-- Attended the Town Hall sponsored evening with Ijeoma Oluo, the Seattle writer that has a new book, Be A Revolution, release. 
+-   Started the day with my last Taylor writing accountability meeting!
+    I worked on framing my DDCSP presentation for the upomng week's
+    cohort.
+-   Attended ENV lecture and held my final quiz section of the week.
+-   Jumped into science hour to clarify some ongoing work tasks and chat
+    about DEI.
+-   Took a walk with Eli to chat about the class and our larger teaching
+    goals. It was an awesome talk.
+-   Attended FAB retros and worked on where I could block out some
+    working time next week.
+-   Attended the Town Hall sponsored evening with Ijeoma Oluo, the
+    Seattle writer that has a new book, Be A Revolution, release.
 
 ## 8 February 2024
 
-- Attended NW CASC information session for their newest RFP.
-- Attended "Ecotoxicology in Aquatic Ecosystems: Behavior as a Tool" virtual panel held by the Instituto de Ciencias del Mar y Limnología. The panelists were from differing backgrounds and presented interesting work and discussion about behavioral assessment as a tool and to tease out physiologically relevant questions. There was a huge emphasis on the work ares of least abundance, and that was helpful for focusing future study efforts.
+-   Attended NW CASC information session for their newest RFP.
+-   Attended "Ecotoxicology in Aquatic Ecosystems: Behavior as a Tool"
+    virtual panel held by the Instituto de Ciencias del Mar y
+    Limnología. The panelists were from differing backgrounds and
+    presented interesting work and discussion about behavioral
+    assessment as a tool and to tease out physiologically relevant
+    questions. There was a huge emphasis on the work ares of least
+    abundance, and that was helpful for focusing future study efforts.
 
 ## 7 February 2024
 
-- Attended ENV 100 lecture where we administered the midterm. 
-- Completed the regrade and the quiz section grading for this week.
-- Attended my grad group meeting.
+-   Attended ENV 100 lecture where we administered the midterm.
+-   Completed the regrade and the quiz section grading for this week.
+-   Attended my grad group meeting.
 
 ## 6 February 2024
 
-- I worked on and submitted my Husky 100 application.
-- I put together the SOD and p450 numbers to take a cursory look at any trends.
-- Completed preparations for attending the Afro Eco Futures single day conference in San Francisco on February 17th. 
-- Completed the first half of the regrade.
+-   I worked on and submitted my Husky 100 application.
+-   I put together the SOD and p450 numbers to take a cursory look at
+    any trends.
+-   Completed preparations for attending the Afro Eco Futures single day
+    conference in San Francisco on February 17th.
+-   Completed the first half of the regrade.
 
 ## 5 February 2024
 
-- All day ENV work. I attended lecture, followed by the teaching team meeting where the grades for our quiz section discussion posts were not showing up. We had to regrade all posts from week 1-4 to fix this error.
-- I held both Monday quiz sections where I reviewed midterm content with them and then we completed the research workshop for their essays.
-- I attended FAB writing accountability where I worked on the new BCA values before heading to meet a former undergrad for coffee. She is looking for grad school advice and application support.
+-   All day ENV work. I attended lecture, followed by the teaching team
+    meeting where the grades for our quiz section discussion posts were
+    not showing up. We had to regrade all posts from week 1-4 to fix
+    this error.
+-   I held both Monday quiz sections where I reviewed midterm content
+    with them and then we completed the research workshop for their
+    essays.
+-   I attended FAB writing accountability where I worked on the new BCA
+    values before heading to meet a former undergrad for coffee. She is
+    looking for grad school advice and application support.
 
 ## 4 February 2024
 
-- Sunday. Prepared for upcoming week's quiz sections.
+-   Sunday. Prepared for upcoming week's quiz sections.
 
 ## 3 February 2024
 
-- Saturday. Held writing accountability time with Taylor where I worked on literature search for the biomarker paper.
-- UWT lab time to rerun all of the out of standards BCAs.
+-   Saturday. Held writing accountability time with Taylor where I
+    worked on literature search for the biomarker paper.
+-   UWT lab time to rerun all of the out of standards BCAs.
 
 ## 2 February 2024
 
-- Held writing accountability with Taylor. I worked on updating my lab notebook daily log and my February goals. I also worked on putting together the poster groups for my Friday quiz section before cleaning up my inbox and following up on some administrative tasks from yesterday.
-- Attended ENV lecture and held my final quiz section for the week.
-- Responded 'yes' to an offer to write an opinion piece for Nature about field ID in a molecular age.
+-   Held writing accountability with Taylor. I worked on updating my lab
+    notebook daily log and my February goals. I also worked on putting
+    together the poster groups for my Friday quiz section before
+    cleaning up my inbox and following up on some administrative tasks
+    from yesterday.
+-   Attended ENV lecture and held my final quiz section for the week.
+-   Responded 'yes' to an offer to write an opinion piece for Nature
+    about field ID in a molecular age.
 
 ## 1 February 2024
 
-- Worked on an abstract with a NABS friend for a seminar she is leading for Diving With a Purpose.
-- Attended lab meeting where we talked all things project management with Ariana leading the conversation.
-- Met with Steven to go over some of the budget logistics for the Innovation Grant meeting later this afternoon. We also discussed the next steps in the mussel work. I will get the site selection to him by Monday and open a GH Issue to discuss what epigenetic work we want to do.
-- Held the first Innovation Grant meeting for the year where we caught up on what we did last year and put out the work schedule for what we will complete this year. I will compile an action items email outlining deliverables for the project to send out by Friday.
-- Held ENV office hours where 4 students showed! 
-- Attended the Salish Sea Institutes webinar "The Puget Sound Ecosystem Monitoring Program". The talk was led by Katrina Radach and focused on how the PSEMP workgroups defined their workloads, how to get involved, and let us know that fellowships existed for funding work that aligns with the plans of the institute.
-- Finished OSS grading.
-
+-   Worked on an abstract with a NABS friend for a seminar she is
+    leading for Diving With a Purpose.
+-   Attended lab meeting where we talked all things project management
+    with Ariana leading the conversation.
+-   Met with Steven to go over some of the budget logistics for the
+    Innovation Grant meeting later this afternoon. We also discussed the
+    next steps in the mussel work. I will get the site selection to him
+    by Monday and open a GH Issue to discuss what epigenetic work we
+    want to do.
+-   Held the first Innovation Grant meeting for the year where we caught
+    up on what we did last year and put out the work schedule for what
+    we will complete this year. I will compile an action items email
+    outlining deliverables for the project to send out by Friday.
+-   Held ENV office hours where 4 students showed!
+-   Attended the Salish Sea Institutes webinar "The Puget Sound
+    Ecosystem Monitoring Program". The talk was led by Katrina Radach
+    and focused on how the PSEMP workgroups defined their workloads, how
+    to get involved, and let us know that fellowships existed for
+    funding work that aligns with the plans of the institute.
+-   Finished OSS grading.

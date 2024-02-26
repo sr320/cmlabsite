@@ -2,10 +2,10 @@
 title: "Projects"
 ---
 
-*Make these live links to the notebook posts*  
+*Make these live links to the notebook posts*
 
-add posts for each project w/ steps  
-eDNA  
+add posts for each project w/ steps\
+eDNA\
 p450
 
 ## Ecotoxicology - Mytilus sp., biochemical assays and molecular tools
