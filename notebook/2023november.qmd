@@ -12,151 +12,186 @@ format:
 
 ## 30 November 2023
 
-- Attended lab meeting and shared plotting resources in R.
-- Attended BGG.
-- Worked on the p450 data and references for the manuscript draft.
+-   Attended lab meeting and shared plotting resources in R.
+-   Attended BGG.
+-   Worked on the p450 data and references for the manuscript draft.
 
 ## 29 November 2023
 
-- TA'd and attended lecture for ENV 100.
-- Attended FAB writing accountability.
-- Worked on data for Logan, sorted my purchasing issue and put together my PowerSoil optimization for Alison and Sarah.
+-   TA'd and attended lecture for ENV 100.
+-   Attended FAB writing accountability.
+-   Worked on data for Logan, sorted my purchasing issue and put
+    together my PowerSoil optimization for Alison and Sarah.
 
 ## 28 November 2023
 
-- TA'd quiz sections.
-- Attended BIMS Issue writing meeting.
-- Housekeeping emails/ follow-ups/ to-dos for ongoing projects and collaborations.
+-   TA'd quiz sections.
+-   Attended BIMS Issue writing meeting.
+-   Housekeeping emails/ follow-ups/ to-dos for ongoing projects and
+    collaborations.
 
 ## 27 November 2023
 
-- Attended teaching team meeting, lecture, and prepared quiz section content.
-- Attended EnviroDNA webinar on using their new source tool for eDNA in contamination work.
-- Worked on annotated bibliography for p450 paper.
+-   Attended teaching team meeting, lecture, and prepared quiz section
+    content.
+-   Attended EnviroDNA webinar on using their new source tool for eDNA
+    in contamination work.
+-   Worked on annotated bibliography for p450 paper.
 
 ## 26 November 2023
 
-- Sunday. Day off.
+-   Sunday. Day off.
 
 ## 25 November 2023
 
-- Saturday. Day off.
+-   Saturday. Day off.
 
 ## 24 November 2023
 
-- Friday. Completed all BCA calculations, transcribed any missing assay data from the shared spreadsheets.
-- Started compiling references for p450 paper.
+-   Friday. Completed all BCA calculations, transcribed any missing
+    assay data from the shared spreadsheets.
+-   Started compiling references for p450 paper.
 
 ## 23 November 2023
 
-- Thanksgiving.
+-   Thanksgiving.
 
 ## 22 November 2023
 
-- UWT lab day. Worked with Ly to complete all homogenizations, BCA assays and p450 assays.
+-   UWT lab day. Worked with Ly to complete all homogenizations, BCA
+    assays and p450 assays.
 
 ## 21 November 2023
 
-- Held open draft support for ENV 100 from 0900 - 1600. Finished weekly grading.
+-   Held open draft support for ENV 100 from 0900 - 1600. Finished
+    weekly grading.
 
 ## 20 November 2023
 
-- Attended teaching team meeting and ENV 100.
-- Held open draft support from 1430 - 1630 for students to get feedback and support for their essays due on Wednesday.
+-   Attended teaching team meeting and ENV 100.
+-   Held open draft support from 1430 - 1630 for students to get
+    feedback and support for their essays due on Wednesday.
 
 ## 19 November 2023
 
-- Sunday. Grading and prep for the upcoming week.
+-   Sunday. Grading and prep for the upcoming week.
 
 ## 18 November 2023
 
-- Saturday. Seattle Fun Day.
+-   Saturday. Seattle Fun Day.
 
 ## 17 November 2023
 
-- Attended the EarthLab meeting and inclusive practice presentation for Cohort 4 with Chante.
-- Attended ENV lecture
-- Finally finished cleaning out my inbox and following up on emails from the time I was away. This yielded an unresolved ticket for access to TREQ and a few other items for follow-up.
+-   Attended the EarthLab meeting and inclusive practice presentation
+    for Cohort 4 with Chante.
+-   Attended ENV lecture
+-   Finally finished cleaning out my inbox and following up on emails
+    from the time I was away. This yielded an unresolved ticket for
+    access to TREQ and a few other items for follow-up.
 
 ## 16 November 2023
 
-- Attended SR lab meeting.
-- UWT lab day. Completed tissue prep for BCA and p450 assays.
+-   Attended SR lab meeting.
+-   UWT lab day. Completed tissue prep for BCA and p450 assays.
 
 ## 15 November 2023
 
-- TA'd and attended lecture for ENV 100.
-- Met with Camille & Cece about presenting at AGU.
-- Wrote with FAB wiritng accountability group.
+-   TA'd and attended lecture for ENV 100.
+-   Met with Camille & Cece about presenting at AGU.
+-   Wrote with FAB wiritng accountability group.
 
 ## 14 November 2023
 
-- TA'd quiz section from 0830 to 1430. I covered a section for a fellow TA that is out this week.
-- Caught up on grading and set up appointments for essay draft review next week.
-- Worked on eDNA data from the summer for a meeting on Wednesday to talk about visualizations.
-- Mussel deployment night 2. Same as the night before except we didn't repeat the training.
+-   TA'd quiz section from 0830 to 1430. I covered a section for a
+    fellow TA that is out this week.
+-   Caught up on grading and set up appointments for essay draft review
+    next week.
+-   Worked on eDNA data from the summer for a meeting on Wednesday to
+    talk about visualizations.
+-   Mussel deployment night 2. Same as the night before except we didn't
+    repeat the training.
 
 ## 13 November 2023
 
-- Attended teaching team meeting and ENV 100 lecture.
-- Prepared quiz section slides and materials.
-- Attended Gardell lab meeting and followed that up with a meeting with Alison and Ly about the mussel work progress and next steps.
-- Completed IG update for EarthLab meeting on 11.17 and caught up on email backlog.
-- Deployed mussels with Puget Soundkeepers for the WDFW/ NOAA mussel monitoring project. All of the volunteers met at the PS office at 7pm for training and to be placed in our location groups. The mussel cages were all placed at the 0 tide level around 9pm.  
+-   Attended teaching team meeting and ENV 100 lecture.
+-   Prepared quiz section slides and materials.
+-   Attended Gardell lab meeting and followed that up with a meeting
+    with Alison and Ly about the mussel work progress and next steps.
+-   Completed IG update for EarthLab meeting on 11.17 and caught up on
+    email backlog.
+-   Deployed mussels with Puget Soundkeepers for the WDFW/ NOAA mussel
+    monitoring project. All of the volunteers met at the PS office at
+    7pm for training and to be placed in our location groups. The mussel
+    cages were all placed at the 0 tide level around 9pm.
 
 ## 12 November 2023
 
-- Sunday. Finished exam grading for ENV 100 and prepared for the upcoming week.
+-   Sunday. Finished exam grading for ENV 100 and prepared for the
+    upcoming week.
 
 ## 11 November 2023
 
-- Saturday. Travel home from summit.
+-   Saturday. Travel home from summit.
 
 ## 10 November 2023
 
-- Veteran's Day. Summit day six.
+-   Veteran's Day. Summit day six.
 
 ## 09 November 2023
 
-- Summit day five. Assigned to afternoon dive sessions.
-- Attended Summit Banquet where election results, Club of the Year, Diver HOF, and other awards were presented. Next Year's Summit was announced and will be in Grenada.
-- Kamau Sadiki presented his work on the Clotilda and how NABS divers can get involved in the work.
+-   Summit day five. Assigned to afternoon dive sessions.
+-   Attended Summit Banquet where election results, Club of the Year,
+    Diver HOF, and other awards were presented. Next Year's Summit was
+    announced and will be in Grenada.
+-   Kamau Sadiki presented his work on the Clotilda and how NABS divers
+    can get involved in the work.
 
 ## 08 November 2023
 
-- Summit day four. Assigned to afternoon dive sessions.
-- Attended 'NABS dinner & a meeting'. Open floor for Board Member reports, committee updates, and questions from the membership.
+-   Summit day four. Assigned to afternoon dive sessions.
+-   Attended 'NABS dinner & a meeting'. Open floor for Board Member
+    reports, committee updates, and questions from the membership.
 
 ## 07 November 2023
 
-- Summit day three. Assigned to afternoon dive sessions.
-- Attended DAN BLS training and scientific diver certification information session. 
+-   Summit day three. Assigned to afternoon dive sessions.
+-   Attended DAN BLS training and scientific diver certification
+    information session.
 
 ## 06 November 2023
 
-- Summit day two. Assigned to morning check-out dive and afternoon dive sessions. 
-- Attend the DWP CARES and Aqua Corp presentations where we learned about the Citizen Science initiatives of Diving With a Purpose and how to participate in the Coral Reef Survey work. We wrapped up by revieiwing the safety officer report.
+-   Summit day two. Assigned to morning check-out dive and afternoon
+    dive sessions.
+-   Attend the DWP CARES and Aqua Corp presentations where we learned
+    about the Citizen Science initiatives of Diving With a Purpose and
+    how to participate in the Coral Reef Survey work. We wrapped up by
+    revieiwing the safety officer report.
 
 ## 05 November 2023
 
-- Sunday. Summit day one. Dives called due to weather. 
+-   Sunday. Summit day one. Dives called due to weather.
 
 ## 04 November 2023
 
-- Saturday. Travel to NABS Summit.
+-   Saturday. Travel to NABS Summit.
 
 ## 03 November 2023
 
-- Finished grading for ENV 100
-- Attended 555
+-   Finished grading for ENV 100
+-   Attended 555
 
 ## 02 November 2023
 
-- UWT lab. Worked with Ly to finish showing her the sample workflow for BCA and p450 assays. We completed the plates for both assays.
-- Completed dissections during p450 plate incubation. 
+-   UWT lab. Worked with Ly to finish showing her the sample workflow
+    for BCA and p450 assays. We completed the plates for both assays.
+-   Completed dissections during p450 plate incubation.
 
 ## 01 November 2023
 
-- Held quiz section, attended ENV 100 lecture, supported Silverdale Wastewater Program Sup. John Poppe through his guest lecture, and held 2 office hour Zoom sessions for the upcoming midterm exam review.
-- Attended Tim's presentation workshop.
-- Worked on some broken code with Logan to clean up our data from Yellow.
+-   Held quiz section, attended ENV 100 lecture, supported Silverdale
+    Wastewater Program Sup. John Poppe through his guest lecture, and
+    held 2 office hour Zoom sessions for the upcoming midterm exam
+    review.
+-   Attended Tim's presentation workshop.
+-   Worked on some broken code with Logan to clean up our data from
+    Yellow.
