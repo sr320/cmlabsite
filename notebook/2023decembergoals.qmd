@@ -1,7 +1,7 @@
 ---
 title: "December 2023 Goals"
 author: "Chris Mantegna"
-date: "2023-11-30"
+date: "2023-December-29"
 categories: ["monthly goals", "daily entries"]
 format:
   html:

@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: MantegnaChrisPhoto.JPG
+image: YellowDusk.JPG
 about:
   template: jolla
   links:

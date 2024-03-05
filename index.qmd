@@ -1,5 +1,5 @@
 ---
-title: "Chris Mantegna  Graduate Student     SAFS     University of Washington"
+title: "Chris Mantegna  Graduate Student     SAFS  ||   University of Washington"
 image: MantegnaChrisPhoto.JPG
 about:
   template: trestles

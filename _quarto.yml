@@ -15,7 +15,7 @@ website:
       - href: mentorship.qmd
         text: Mentorship & Outreach
       - href: notebook.qmd
-        text: Daily Notebook Posts
+        text: Notebook
       - icon: github
         href: https://github.com/ChrisMantegna
       - icon: twitter
