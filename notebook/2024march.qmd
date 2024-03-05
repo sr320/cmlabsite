@@ -1,0 +1,43 @@
+---
+title: "March 2024 Daily Notebook Post Log"
+author: "Chris Mantegna"
+date: "2024-03-01"
+categories: ["monthly goals", "daily log"]
+format:
+  html:
+    toc: true
+---
+
+# Daily Log
+
+# 31 March 
+# 30 March
+# 29 March
+# 28 March
+# 27 March
+# 26 March
+# 25 March
+# 24 March
+# 23 March
+# 22 March
+# 21 March
+# 20 March
+# 19 March
+# 18 March
+# 17 March
+# 16 March
+# 15 March
+# 14 March
+# 13 March
+# 12 March
+# 11 March
+# 10 March
+# 09 March
+# 08 March
+# 07 March
+# 06 March
+# 05 March
+# 04 March
+# 03 March
+# 02 March
+# 01 March

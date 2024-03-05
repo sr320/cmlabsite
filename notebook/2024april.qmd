@@ -1,0 +1,82 @@
+---
+title: "April 2024 Daily Notebook Post Log"
+author: "Chris Mantegna"
+date: "2024-04-01"
+categories: ["monthly goals", "daily log"]
+format:
+  html:
+    toc: true
+---
+
+# Daily Log
+
+
+# 31 March 
+
+- Sunday.
+
+# 30 March
+
+- Saturday. 
+
+# 29 March
+# 28 March
+# 27 March
+# 26 March
+# 25 March
+# 24 March
+
+- Sunday. 
+
+# 23 March
+
+- Saturday. 
+
+# 22 March
+# 21 March
+# 20 March
+# 19 March
+# 18 March
+# 17 March
+
+- Sunday.
+
+# 16 March
+
+- Saturday.
+
+# 15 March
+# 14 March
+# 13 March
+# 12 March
+# 11 March
+# 10 March
+
+- Sunday.
+
+# 09 March
+
+- Saturday.
+
+# 08 March
+# 07 March
+# 06 March
+# 05 March
+# 04 March
+
+- **Courses** Attended ENV 100 lecture, teaching team meeting, and administered the final in two quiz sections.
+- **Administrative** I got my three papers on the Pubathon page and got my Nature draft to Steven for editing support. I also added my general project idea to an open GH issue for experiment ideas for a shellfish field project.
+- **Coding** I worked on cleaning up the exploratory data visualizations. I was able to get the PCA loaded correctly but not the correlation plot with only the variables I want. 
+- **Coding** I spent some time trying to add a quantitative portion to my monthly logs. I would like to count how many times one of ten tags was used throughout the month and create a pie chart or stacked bar by week to visualize how I'm spending my time. 
+
+# 03 March
+
+- Sunday. **Courses** Prepared for Monday quiz sections and wrapped up grading for the week.
+
+# 02 March
+
+- Saturday. **Writing** Worked on my Nature draft and got an early version to Julia for editing support.
+
+# 01 March
+
+- **Courses** Attended ENV 100 lecure an
