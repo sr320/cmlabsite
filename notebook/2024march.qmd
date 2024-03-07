@@ -52,19 +52,40 @@ format:
 # 11 March
 # 10 March
 
-- Sunday.
+- Sunday. Travelling.
 
 # 09 March
 
-- Saturday.
+- Saturday. Travelling.
 
 # 08 March
+
+-
+
 # 07 March
+
+- 
+
 # 06 March
+
+- **Courses/TA** Attended the last ENV 100 lecture of the quarter.
+- **Writing** Finished the Nature draft and sent it to editor.
+- **Writing** Started outlining/ adding bulleted points to the mussel biomarker draft.
+- **Research/ Bench Work** I started gathering the sources into a Zotero library for the biomarker paper. I didn't annotate everything I added and that is a mistake to keep in mind for future me. I need to at least make a quick 2-3 sentences about what I am trying to understand with that paper. 
+
 # 05 March
+
+- **Writing** I worked on my Nature opinion draft. I reread the message from the editor and made it more specific to eDNA and field work instead of the general sequencing work I was discussing. I also tried to cement why space is important, but I am not sure I got there.
+- **Coding** I worked on the quantitative addition to my goals page. I think I have to put a pin in this one and come back it at the end of the month when I have more time.
+
+- **Research/ Bench Work** I started gathering the sources into a Zotero library for the biomarker paper. I didn't annotate everything I added and that is a mistake to keep in mind for future me. I need to at least make a quick 2-3 sentences about what I am trying to understand with that paper. 
+
 # 04 March
 
-- **Courses** Attended ENV 100 lecture, teaching team meeting, and administered the final in two quiz sections.
+- **Courses/TA** Attended ENV 100 lecture, teaching team meeting, and administered the final in two quiz sections.
+
+- **Courses/TA** Completed grading for all assignments except the exam and final poster projects.
+
 - **Administrative** I got my three papers on the Pubathon page and got my Nature draft to Steven for editing support. I also added my general project idea to an open GH issue for experiment ideas for a shellfish field project.
 - **Coding** I worked on cleaning up the exploratory data visualizations. I was able to get the PCA loaded correctly but not the correlation plot with only the variables I want. 
 - **Coding** I spent some time trying to add a quantitative portion to my monthly logs. I would like to count how many times one of ten tags was used throughout the month and create a pie chart or stacked bar by week to visualize how I'm spending my time. 
@@ -79,4 +100,5 @@ format:
 
 # 01 March
 
-- **Courses** Attended ENV 100 lecure an
+- **Courses** Attended ENV 100 lecture and held my final quiz section for the week. 
+- **Meetings** Met with Alison and Ly to discuss Ly's deliverables and the state of the data. We discussed the ranked plots, the kepler map, PCA plot, and correlation plot. Next steps are to clean up data as discussed with Steven earlier in the week.
