@@ -24,13 +24,17 @@ format:
 # 27 March
 # 26 March
 # 25 March
+
+- First day of Spring Quarter.
+- **Courses/TA** I am TAing for ENVIR 401 - Analysis of Environmental Cases with Yen-Chu Weng. Classes are T/Th from 1030  - 1230, our teaching team meetings are from 1000 - 1030 on Tuesdays, and my office hours are on Wednesdays from 1000 - 1100 via Zoom.
+
 # 24 March
 
-- Sunday. 
+- Sunday. Travelling. 
 
 # 23 March
 
-- Saturday. 
+- Saturday. Travelling.
 
 # 22 March
 # 21 March
@@ -49,7 +53,14 @@ format:
 # 14 March
 # 13 March
 # 12 March
+
+- **Research/ Bench Work** Cleaned up biomarker data and prepared my repo for access by others supporting the manuscript writing. I am creating a timetable/ timeline of what I need to accomplish daily to get this paper out. 
+- **Administrative** I reached out to Molly and Mariko at WDFW for support with their whole tissue contamination data. We will meet on Tuesday 3.19 to go over details and how I can get that analysis completed.
+
 # 11 March
+
+- **Courses/TA** Finished grading my question in the short answer portion of the exam and completed my grading of the last discussion posts for the section.
+
 # 10 March
 
 - Sunday. Travelling.
@@ -60,11 +71,15 @@ format:
 
 # 08 March
 
--
+- **Courses/TA** Administered the ENV 100 short answer final and took my turn in Zoom office hours to support the multiple choice portion.
+- **Courses/TA** Started grading the short answer portion of the exam.
+- Left campus and headed straight to the airport for Pakistan.
 
 # 07 March
 
-- 
+- **Meetings** Attended lab meeting where we went over projects in progress and attended Pubathon where we relayed current manuscript progress and goals for next week. I reached 2/3 goals for last week, netting me 7/10 points. This upcoming week I will focus on cleaning up my biomarker repo and setting up where I need help to meet the 3.31.24 deadline and to get the methods drafted.
+- **Meetings** Met with Ly to go over her research questions, abstract, and SOP updates so that she can submit that for her capstone benchwork credit.
+- **Meetings** **Administrative** I canceled the Innovation Grant Meeting. I dropped the ball on the follow through and reminders to the team requesting the completion of the actions items to keep us moving forward. I followed the cancellation with a task list and request for further clarification so that we could stay on track for the cohort arrival date of July 18th.
 
 # 06 March
 
