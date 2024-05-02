@@ -1,5 +1,5 @@
 ---
-title: "March 2024 Goals"
+title: "May 2024 Goals"
 author: "Chris Mantegna"
 date: "2024-04-30"
 categories: ["monthly goals", "daily entries"]
