@@ -10,40 +10,73 @@ format:
 
 # Daily Log
 
+# 31 May
 
-# 31 May 
 # 30 May
+
 # 29 May
+
 # 28 May
+
 # 27 May
+
 # 26 May
+
 # 25 May
+
 # 24 May
+
 # 23 May
+
 # 22 May
+
 # 21 May
+
 # 20 May
+
 # 19 May
+
 # 18 May
+
 # 17 May
+
 # 16 May
+
 # 15 May
+
 # 14 May
+
 # 13 May
+
 # 12 May
+
 # 11 May
+
 # 10 May
+
 # 09 May
+
 # 08 May
+
 # 07 May
+
 # 06 May
+
 # 05 May
+
 # 04 May
+
 # 03 May
+
 # 02 May
 
 # 01 May
-- Started grading student essays and catching up on this week's content.
-- Monthly mentoring meeting with Julia.
-- Worked with Ly to pick out sites she'll evaluate for her capstone and talked through the visuals she'd like to use for her poster. We'll move forward with highly urbanized, less urbanized and reference for her project.
-- Set monthly goals for May.
+
+-   Started grading student essays and catching up on this week's
+    content.
+-   Monthly mentoring meeting with Julia.
+-   Worked with Ly to pick out sites she'll evaluate for her capstone
+    and talked through the visuals she'd like to use for her poster.
+    We'll move forward with highly urbanized, less urbanized and
+    reference for her project.
+-   Set monthly goals for May.
