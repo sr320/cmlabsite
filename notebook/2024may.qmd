@@ -62,7 +62,9 @@ format:
 
 - Reviewing 401 content for class today.
 - Attended teaching team meeting and 401.
-
+- Did some calendar/ meeting reconciliation for the REU and DDCSP students' deliverable before the program starts.
+- Met with Steven to go over next steps for the mussel epigenetics work. We will split the 24 samples into the sites with the most contamination and the least contamination based on the analyte data from WDFW and the biomarker activity.
+- Attended FAB writing accountability where I worked on getting my biomarker data organized to upload into my repo.
 
 # 06 May
 
