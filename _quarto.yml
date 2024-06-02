@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Chris' Lab Notebook"
+  site-url: https://chrismantegna.github.io/cmlabsite/notebook.html
   navbar:
     right:
       - href: about.qmd
